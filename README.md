@@ -1,4 +1,4 @@
-<!-- ================= HEADER ================= -->
+
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C9FF,50:92FE9D,100:6A11CB&height=300&section=header&text=Samadhan%20Trambak%20Shinde&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
