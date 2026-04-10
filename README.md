@@ -1,6 +1,6 @@
 <!-- ===================== PREMIUM HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:00C9FF&height=230&section=header&text=Samadhan%20Trambak%20Shinde&fontSize=45&fontColor=000000&animation=fadeIn&fontAlignY=35"/>
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:434343,100:000000&height=230&section=header&text=Samadhan%20Trambak%20Shinde&fontSize=45&fontColor=00F5A0&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- ===================== ANIMATED ROLE ===================== -->
