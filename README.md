@@ -1,19 +1,18 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== PREMIUM HEADER ===================== -->
 <p align="center">
-  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:434343,100:000000&height=220&section=header&text=Samadhan%20Trambak%20Shinde&fontSize=42&fontColor=00C9FF&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:00C9FF&height=230&section=header&text=Samadhan%20Trambak%20Shinde&fontSize=45&fontColor=000000&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
+<!-- ===================== ANIMATED ROLE ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Data+Scientist;Data+Analyst;AI+Engineer;Machine+Learning+Engineer;Building+AI+Driven+Solutions"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=Data+Scientist;Data+Analyst;AI+Engineer;Machine+Learning+Engineer;Turning+Data+into+Business+Impact"/>
 </p>
 
 <!-- ===================== BADGES ===================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SamadhanShinde&label=Profile%20Views&color=blueviolet"/>
+  <img src="https://komarev.com/ghpvc/?username=SamadhanShinde&label=Profile%20Views&color=brightgreen"/>
   <img src="https://img.shields.io/github/followers/SamadhanShinde?label=Followers&style=flat&color=blue"/>
-  <img src="https://img.shields.io/badge/Open%20to-AI%20%26%20Data%20Roles-success"/>
+  <img src="https://img.shields.io/badge/Open%20to-Hire-success"/>
 </p>
 
 ---
@@ -23,45 +22,43 @@
 🎯 **Samadhan Trambak Shinde**  
 💡 *Data Scientist | Data Analyst | AI Engineer*
 
-I transform **raw data into intelligent systems and business insights** using advanced analytics and AI.
+I build **data-driven solutions and AI systems** that solve real-world business problems and deliver measurable impact.
 
-- 📊 Data Analysis, EDA & Statistical Modeling  
+- 📊 Advanced Data Analysis & Statistical Modeling  
 - 🤖 Machine Learning & Deep Learning  
-- 📈 Business Intelligence (Power BI / Dashboards)  
-- 🧠 AI-based problem solving & automation  
+- 📈 Power BI & Data Visualization  
+- 🧠 AI Automation & Intelligent Systems  
 
 ---
 
-## 🧠 Expertise Areas
+## 🏆 Key Highlights (Recruiter Focus)
 
-✔ Data Science & Predictive Modeling  
-✔ Machine Learning & AI Systems  
-✔ Data Visualization & Storytelling  
-✔ Business Intelligence & KPI Dashboards  
-✔ Real-world Problem Solving  
+✔ Built ML models for **prediction & automation**  
+✔ Developed **interactive dashboards (Power BI / Streamlit)**  
+✔ Strong foundation in **Python, SQL & Data Structures**  
+✔ Hands-on with **real-world datasets & projects**  
 
 ---
 
 ## 🚀 Skills (Premium Badges)
 
-### 📊 Data Science & Analytics
+### 📊 Data Science
 <p>
-<img src="https://img.shields.io/badge/Python-Expert-000000?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/SQL-Expert-003B57?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Pandas-Advanced-111111?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-Advanced-222222?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Python-Expert-black?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/SQL-Expert-black?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Pandas-Advanced-black?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-Advanced-black?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Statistics-Advanced-black?style=for-the-badge"/>
 </p>
 
-### 📈 Visualization & BI
+### 📈 Data Visualization
 <p>
 <img src="https://img.shields.io/badge/Power%20BI-Advanced-black?style=for-the-badge&logo=powerbi"/>
 <img src="https://img.shields.io/badge/Plotly-Pro-black?style=for-the-badge&logo=plotly"/>
-<img src="https://img.shields.io/badge/Matplotlib-Pro-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-Pro-black?style=for-the-badge"/>
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI / ML
 <p>
 <img src="https://img.shields.io/badge/Machine%20Learning-Expert-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-Advanced-black?style=for-the-badge"/>
@@ -84,62 +81,58 @@ I transform **raw data into intelligent systems and business insights** using ad
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (ADD YOUR LINKS HERE)
 
-🔹 **Customer Churn Prediction (ML Model)**  
-→ Predict customer retention using classification models  
+🔹 **Customer Churn Prediction**  
+👉 https://github.com/yourusername/churn-project  
 
 🔹 **Sales Dashboard (Power BI)**  
-→ Interactive dashboard with business KPIs  
+👉 https://github.com/yourusername/dashboard  
 
 🔹 **AI Object Detection (YOLOv8)**  
-→ Real-time detection using OpenCV & Deep Learning  
+👉 https://github.com/yourusername/object-detection  
 
-🔹 **EDA Automation System**  
-→ Automated insights generation using Python  
+🔹 **EDA Automation Tool**  
+👉 https://github.com/yourusername/eda-tool  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SamadhanShinde&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamadhanShinde&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamadhanShinde&layout=compact&theme=tokyonight"/>
-</p>
+---
+
+## 🎯 Career Target
+
+🚀 Data Scientist / AI Engineer  
+📊 Build AI-driven products  
+💼 Work in top MNC / IT companies  
 
 ---
 
-## 🎯 Career Vision
-
-🚀 To become a leading **Data Scientist / AI Engineer**  
-📊 Build impactful AI products  
-🤖 Solve real-world business problems using data  
-
----
-
-## 🌐 Connect With Me
+## 📬 Hire Me / Contact
 
 <p align="center">
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Samadhan%20Shinde-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:your_email@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Hire%20Me-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-✨ <b>"Data → Intelligence → Impact"</b> ✨
+✨ <b>Turning Data into Intelligence & Business Impact</b> ✨
 </p>
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:00C9FF&height=120&section=footer"/>
 </p>
