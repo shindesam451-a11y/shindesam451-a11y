@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi, I'm Samadhan Shinde</h1>
 <h3 align="center">💡 Data Scientist • 📊 Data Analyst • 🤖 AI Engineer</h3>
 
-<p align="center">
+<p align="ALL NAME "
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=720&lines=Transforming+Data+into+Insights;Machine+Learning+Engineer;SQL+%7C+Python+%7C+Power+BI;Building+Real-World+AI+Projects;Open+to+Opportunities+🚀">
 </p>
 
