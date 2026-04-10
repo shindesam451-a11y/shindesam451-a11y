@@ -1,104 +1,134 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=200&section=header&text=Samadhan%20Trambak%20Shinde&fontSize=40&fontColor=ffffff"/>
-</p>
-
-<h1 align="center">Samadhan Trambak Shinde</h1>
-<h3 align="center">Data Scientist | Data Analyst | AI Engineer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2A5298&center=true&vCenter=true&width=600&lines=Python+%7C+SQL+%7C+Machine+Learning;Data+Analysis+%7C+Power+BI;Building+Data-Driven+Solutions;Open+to+Work">
-</p>
-<!-- ================= HEADER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1E3C72,50:2A5298,100:00C9FF&height=240&section=header&text=Samadhan%20Trambak%20Shinde&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Samadhan%20Trambak%20Shinde&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">👋 Samadhan Trambak Shinde</h1>
 <h3 align="center">Data Scientist | Data Analyst | AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&center=true&vCenter=true&width=650&lines=Python+%7C+SQL+%7C+Machine+Learning;Data+Analysis+%7C+Power+BI;Building+Data-Driven+Solutions;AI+%7C+Analytics+%7C+Business+Insights;Open
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Python+%7C+SQL+%7C+Power+BI;Building+Business+Driven+AI+Solutions;Turning+Data+Into+Insights;Open+to+Work+🚀">
+</p>
+
 ---
 
-## 🧠 Profile Summary
+## 🧠 About Me
 
-- Data Scientist with strong foundation in **Python, SQL, and Machine Learning**  
-- Experience in building **data-driven solutions and dashboards**  
-- Skilled in **data analysis, visualization, and predictive modeling**  
-- Focused on solving real-world business problems using data  
-- Actively seeking opportunities in top IT companies  
+<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎯 Passionate **Data Scientist** focused on solving real-world problems  
+- 📊 Strong in **Python, SQL, Data Analysis & Machine Learning**  
+- 📈 Experienced in building **interactive dashboards & insights**  
+- 🤖 Interested in **AI, NLP & Predictive Modeling**  
+- 💼 Actively seeking opportunities in **Top IT / MNC Companies**  
 
 ---
 
 ## 🛠️ Skills
 
 ### 👨‍💻 Programming
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-0F2027?style=for-the-badge&logo=python&logoColor=00C9FF"/>
+<img src="https://img.shields.io/badge/SQL-0F2027?style=for-the-badge&logo=mysql&logoColor=00C9FF"/>
 </p>
 
-### 📊 Data Analysis
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/EDA-000000?style=for-the-badge"/>
+### 📊 Data Science & Analysis
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-0F2027?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-0F2027?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-0F2027?style=for-the-badge&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/EDA-0F2027?style=for-the-badge"/>
 </p>
 
 ### 📈 Visualization
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Plotly-0F2027?style=for-the-badge&logo=plotly"/>
 </p>
 
-### 🤖 Machine Learning / AI
-<p>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge"/>
+### 🤖 AI / Machine Learning
+<p align="center">
+<img src="https://img.shields.io/badge/Machine_Learning-0F2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-0F2027?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 Projects
+## ⚙️ Tools & Technologies
+
+<p align="center">
+<img src="https://img.shields.io/badge/Git-0F2027?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Jupyter-0F2027?style=for-the-badge&logo=jupyter"/>
+<img src="https://img.shields.io/badge/VS_Code-0F2027?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Tableau-0F2027?style=for-the-badge&logo=tableau"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🔹 Customer Churn Prediction
-- Built machine learning model to predict customer churn  
-- Improved decision-making with predictive insights  
+- Built ML model to identify high-risk customers  
+- Improved retention strategy with predictive insights  
 
-### 🔹 Sales Dashboard (Power BI)
-- Designed interactive dashboard with business KPIs  
-- Delivered actionable insights for stakeholders  
+### 🔹 Real-Time Data Analytics Dashboard
+- Developed interactive Power BI dashboard  
+- Delivered real-time KPIs & business insights  
 
 ### 🔹 AI Resume Screening System
-- Developed NLP-based resume ranking system  
-- Automated candidate shortlisting process  
+- Created NLP-based automated hiring solution  
+- Ranked resumes based on job relevance  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect
+## 📈 Contribution Graph
 
-<p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> |
-<a href="mailto:YOUR_EMAIL">Email</a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## ⚡ Professional Statement
+## 🏆 Achievements
 
-*"Using Data Science and AI to deliver impactful business solutions."*
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+## ⚡ Personal Brand
+
+<p align="center">
+💡 <b>"Transforming Data into Strategic Insights & AI-Driven Solutions"</b>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer"/>
 </p>
