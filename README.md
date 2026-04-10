@@ -1,8 +1,6 @@
-<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Samadhan%20Trambak%20Shinde&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=38EF7D&center=true&vCenter=true&width=900&lines=Data+Scientist;Data+Analyst;AI+Engineer;Machine+Learning+Engineer;Turning+Data+into+Business+Impact"/>
 </p>
-
 <!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Data+Scientist;Data+Analyst;AI+Engineer;Machine+Learning+Engineer;Building+AI+Driven+Solutions"/>
