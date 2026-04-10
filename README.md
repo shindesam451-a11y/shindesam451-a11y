@@ -9,7 +9,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2A5298&center=true&vCenter=true&width=600&lines=Python+%7C+SQL+%7C+Machine+Learning;Data+Analysis+%7C+Power+BI;Building+Data-Driven+Solutions;Open+to+Work">
 </p>
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1E3C72,50:2A5298,100:00C9FF&height=240&section=header&text=Samadhan%20Trambak%20Shinde&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
+<h1 align="center">👋 Samadhan Trambak Shinde</h1>
+<h3 align="center">Data Scientist | Data Analyst | AI Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&center=true&vCenter=true&width=650&lines=Python+%7C+SQL+%7C+Machine+Learning;Data+Analysis+%7C+Power+BI;Building+Data-Driven+Solutions;AI+%7C+Analytics+%7C+Business+Insights;Open
 ---
 
 ## 🧠 Profile Summary
