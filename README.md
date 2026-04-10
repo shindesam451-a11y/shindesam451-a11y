@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-🎯 **Data Analyst & AI Engineer** with a strong focus on **data-driven decision making, predictive modeling, and intelligent automation**.
+🎯 **Data Scientist / Data Analyst & AI Engineer** with a strong focus on **data-driven decision making, predictive modeling, and intelligent automation**.
 
 I specialize in converting complex datasets into **clear insights, scalable dashboards, and AI-powered solutions** that support real-world business needs.
 
