@@ -1,107 +1,95 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:141E30,50:243B55,100:00C9FF&height=260&section=header&text=Samadhan%20Trambak%20Shinde&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=200&section=header&text=Samadhan%20Trambak%20Shinde&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Samadhan Shinde</h1>
-<h3 align="center">💡 Data Scientist • 📊 Data Analyst • 🤖 AI Engineer</h3>
-
-<p align="ALL NAME "
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=720&lines=Transforming+Data+into+Insights;Machine+Learning+Engineer;SQL+%7C+Python+%7C+Power+BI;Building+Real-World+AI+Projects;Open+to+Opportunities+🚀">
-</p>
-
----
-
-## 🧠 Who Am I?
-
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-🚀 Passionate Data Scientist focused on solving real-world problems  
-📊 Strong in Data Analysis, Machine Learning & Business Insights  
-⚡ Skilled in Python, SQL, Power BI & AI tools  
-🎯 Goal: Work with top MNCs & build impactful AI solutions  
-
----
-
-## 🧰 Tech Toolbox
+<h1 align="center">Samadhan Trambak Shinde</h1>
+<h3 align="center">Data Scientist | Data Analyst | AI Engineer</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Pandas-111?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Numpy-111?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-111?style=for-the-badge&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/Plotly-111?style=for-the-badge&logo=plotly"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
-<img src="https://img.shields.io/badge/Tableau-111?style=for-the-badge&logo=tableau"/>
-<img src="https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/NLP-111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep_Learning-111?style=for-the-badge"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=2A5298&center=true&vCenter=true&width=600&lines=Python+%7C+SQL+%7C+Machine+Learning;Data+Analysis+%7C+Power+BI;Building+Data-Driven+Solutions;Open+to+Work">
 </p>
 
 ---
 
-## 🚀 What I Build
+## 🧠 Profile Summary
 
-🔹 **AI Resume Screening System**  
-→ NLP-based smart hiring solution  
-
-🔹 **Real-Time Data Analytics Dashboard**  
-→ Power BI dashboard with business KPIs  
-
-🔹 **Customer Churn Prediction**  
-→ Machine learning model for retention  
+- Data Scientist with strong foundation in **Python, SQL, and Machine Learning**  
+- Experience in building **data-driven solutions and dashboards**  
+- Skilled in **data analysis, visualization, and predictive modeling**  
+- Focused on solving real-world business problems using data  
+- Actively seeking opportunities in top IT companies  
 
 ---
 
-## 📊 GitHub Performance
+## 🛠️ Skills
+
+### 👨‍💻 Programming
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 📊 Data Analysis
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/EDA-000000?style=for-the-badge"/>
+</p>
+
+### 📈 Visualization
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+</p>
+
+### 🤖 Machine Learning / AI
+<p>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🔹 Customer Churn Prediction
+- Built machine learning model to predict customer churn  
+- Improved decision-making with predictive insights  
+
+### 🔹 Sales Dashboard (Power BI)
+- Designed interactive dashboard with business KPIs  
+- Delivered actionable insights for stakeholders  
+
+### 🔹 AI Resume Screening System
+- Developed NLP-based resume ranking system  
+- Automated candidate shortlisting process  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default"/>
 </p>
 
 ---
 
-## 📈 Activity Map
+## 🌐 Connect
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
+<p>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> |
+<a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
 ---
 
-## 🏆 Highlights
+## ⚡ Professional Statement
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 🌐 Let’s Connect
-
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
-
----
-
-## ⚡ Personal Edge
-
-💡 *"I don’t just analyze data — I create impact with it."*
+*"Using Data Science and AI to deliver impactful business solutions."*
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:00C9FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=120&section=footer"/>
 </p>
