@@ -1,4 +1,4 @@
-<!-- ================= ULTRA HEADER ================= -->
+<!-- ================= HEADER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:1CB5E0,100:000046&height=280&section=header&text=Samadhan%20Trambak%20Shinde&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
