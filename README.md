@@ -1,6 +1,6 @@
 <!-- ================= ULTRA PREMIUM HEADER ================= -->
 <p align="Samadhan">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000428,50:004e92,100:00C9FF&height=300&section=header&text=Samadhan%20Trambak%20Shinde&fontSize=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000428,50:004e92,100:00C9FF&height=300&section=header&text=Samadhan%100Trambak%100Shinde&fontSize=100
 </p>
 
 <!-- ================= ELITE TYPING ================= -->
