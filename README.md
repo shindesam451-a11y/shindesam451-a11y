@@ -1,6 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Samadhan%20Trambak%20Shinde&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:434343,100:000000&height=220&section=header&text=Samadhan%20Trambak%20Shinde&fontSize=42&fontColor=00C9FF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
