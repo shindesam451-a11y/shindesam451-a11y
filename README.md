@@ -85,17 +85,17 @@ I transform **raw data into intelligent systems and business insights** using ad
 
 ## 🚀 Featured Projects
 
-🔹 **Customer Churn Prediction (ML Model)**  
-→ Predict customer retention using classification models  
+🔹 **EDA Automation System**  
+→ Automated insights generation using Python
 
-🔹 **Sales Dashboard (Power BI)**  
-→ Interactive dashboard with business KPIs  
+🔹 **AI Resume Scanning System**
+→  Real-time AI Resume Scanning Natural Language Processing (NLP), machine learning algorithms.
 
 🔹 **AI Object Detection (YOLOv8)**  
 → Real-time detection using OpenCV & Deep Learning  
 
-🔹 **EDA Automation System**  
-→ Automated insights generation using Python  
+🔹 **Customer Churn Prediction (ML Model)**  
+→ Predict customer retention using classification models  
 
 ---
 
